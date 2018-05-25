@@ -1,0 +1,22 @@
+section{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.font-titles{
+  font-family: serif;
+  font-size: 29px;
+  font-weight: bold;
+  text-decoration: underline;
+  color: red;
+}
+.font-content{
+  font-family: sans-serif;
+  font-weight: bolder;
+
+}
+.ln-block{
+  display: inline;
+}
+.card-content{
+  background-color: #c6c4c4;
+}
